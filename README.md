@@ -1,5 +1,15 @@
 # NoLeaks-artifact
-The research artifact for NoLeaks algorithm
+The research artifact for NoLeaks algorithm. If you find our algorithm useful, please cite it as 
+
+```
+@article{noleaks,
+  title={NoLeaks: Differentially Private Causal Discovery Under Functional Causal Model},
+  author={Ma, Pingchuan and Ji, Zhenlan and Pang, Qi and Wang, Shuai},
+  journal={IEEE Transactions on Information Forensics & Security (\textbf{TIFS})},
+  year={2022},
+  publisher={IEEE}
+}
+```
 
 ## Dependency
 
