@@ -5,7 +5,7 @@ The research artifact for NoLeaks algorithm. If you find our algorithm useful, p
 @article{noleaks,
   title={NoLeaks: Differentially Private Causal Discovery Under Functional Causal Model},
   author={Ma, Pingchuan and Ji, Zhenlan and Pang, Qi and Wang, Shuai},
-  journal={IEEE Transactions on Information Forensics & Security (\textbf{TIFS})},
+  journal={IEEE Transactions on Information Forensics & Security},
   year={2022},
   publisher={IEEE}
 }
