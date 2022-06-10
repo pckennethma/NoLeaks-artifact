@@ -28,4 +28,4 @@ python -m notears.bnlearn
 
 ## Acknowledgement
 
-The codebase is extended from [noteras](https://github.com/xunzheng/notears).
+The codebase is extended from [noteras](https://github.com/xunzheng/notears). The work is supported by NVIDIA Academic Hardware Grant.
